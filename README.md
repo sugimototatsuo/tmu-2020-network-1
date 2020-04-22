@@ -10,9 +10,9 @@ URLは受講生のみに連絡します。
 ## Tool
 
 - Web browser
- - [Google Chrome](https://www.google.co.jp/chrome/)
+  - [Google Chrome](https://www.google.co.jp/chrome/)
 - Editor
- - [Visual Code Studio](https://code.visualstudio.com/)
+  - [Visual Code Studio](https://code.visualstudio.com/)
 
 ## Schedule
 
