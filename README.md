@@ -7,6 +7,13 @@ Zoomを使ったオンライン授業です。
 URLは受講生のみに連絡します。  
 課題の提出やコミュニケーションはSlackで行います。
 
+## Tool
+
+- Web browser
+ - [Google Chrome](https://www.google.co.jp/chrome/)
+- Editor
+ - [Visual Code Studio](https://code.visualstudio.com/)
+
 ## Schedule
 
 - 2020-05-15 Day01 Orientation
