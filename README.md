@@ -4,7 +4,8 @@
 ## How to attend
 
 Zoomを使ったオンライン授業です。  
-URLは受講生のみに連絡します。
+URLは受講生のみに連絡します。  
+課題の提出やコミュニケーションはSlackで行います。
 
 ## Schedule
 
@@ -21,3 +22,7 @@ URLは受講生のみに連絡します。
 - 2020-07-24 Day11
 - 2020-07-31 Day12
 - 2020-08-07 Day13 Final Presentation
+
+## Help
+
+質問はSlackで受け付けます。
