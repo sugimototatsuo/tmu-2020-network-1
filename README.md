@@ -16,14 +16,20 @@ URLは受講生のみに連絡します。
   - [Visual Code Studio](https://code.visualstudio.com/)
 - Communication
   - [Slack](https://slack.com/)
-
+- Development and Deploy
+  - [GitHub](https://github.com/)
+  
 ## Online course
 
 - [Codecademy](https://www.codecademy.com/)
   - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
   - [Learn CSS](https://www.codecademy.com/learn/learn-css)
   - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-  
+
+## Resources
+
+- [海外・国内の便利なAPI一覧 - API LIST 100+](http://smsurf.app-rox.com/api/)
+
 ## Schedule
 
 - 2020-05-15 Day01 Orientation
