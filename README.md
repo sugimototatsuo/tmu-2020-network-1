@@ -14,7 +14,8 @@ URLは受講生のみに連絡します。
   - [Google Chrome](https://www.google.co.jp/chrome/)
 - Editor
   - [Visual Code Studio](https://code.visualstudio.com/)
-    - [Live Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    - [Japanese Language Pack for Visual Studio Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) 日本語化
+    - [Live Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ローカルサーバ
 - Communication
   - [Slack](https://slack.com/)
 - Development and Deploy
