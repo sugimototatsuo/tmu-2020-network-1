@@ -16,6 +16,13 @@ URLは受講生のみに連絡します。
   - [Visual Code Studio](https://code.visualstudio.com/)
 - Communication
   - [Slack](https://slack.com/)
+
+## Online course
+
+- [Codacademy](https://www.codecademy.com/)
+  - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+  - [Learn CSS](https://www.codecademy.com/learn/learn-css)
+  - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
   
 ## Schedule
 
