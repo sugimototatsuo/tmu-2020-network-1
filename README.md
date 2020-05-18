@@ -28,7 +28,10 @@ URLは受講生のみに連絡します。
 
 ## Resources
 
-- [海外・国内の便利なAPI一覧 - API LIST 100+](http://smsurf.app-rox.com/api/)
+- GitHub and VS Code
+  - [【初心者向け】GitHubにリポジトリを作成してVisual Studio Codeと連携するまで - 鍋綿ブログ](https://www.micknabewata.com/entry/github/vscode-sync)
+- Web API
+  - [海外・国内の便利なAPI一覧 - API LIST 100+](http://smsurf.app-rox.com/api/)
 
 ## Schedule
 
