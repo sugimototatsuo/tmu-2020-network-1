@@ -37,6 +37,14 @@ URLは受講生のみに連絡します。
 - Web API
   - [海外・国内の便利なAPI一覧 - API LIST 100+](http://smsurf.app-rox.com/api/)
 
+## First Project
+
+- Redesign IA website
+
+## Final Project
+
+- TBA
+
 ## Schedule
 
 - 2020-05-15 Day01 Orientation
