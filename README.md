@@ -29,7 +29,8 @@ URLは受講生のみに連絡します。
   - [Learn CSS](https://www.codecademy.com/learn/learn-css)
       - You may skip 6 Grid.
   - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-
+      - You may skip 14 Requests I.
+      
 ## Resources
 
 - GitHub and VS Code
