@@ -41,7 +41,11 @@ URLは受講生のみに連絡します。
 ## First Project
 
 - Redesign IA website
-
+  - IA Web Data　編集リンクはSlackで通知します
+  - [sugimototatsuo/redesign-ia: 2020年度ネットワーク演習Iのテンプレート](https://github.com/sugimototatsuo/redesign-ia/)
+  - [東京都立大学システムデザイン学部インダストリアルアート学科](https://sugimototatsuo.github.io/redesign-ia/)　テンプレートのGitHub Pages
+  - [東京都立大学システムデザイン学部インダストリアルアート学科 Department of Industrial Art](http://industrial-art.sd.tmu.ac.jp/) オリジナル
+  
 ## Final Project
 
 - TBA
