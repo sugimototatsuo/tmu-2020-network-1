@@ -30,7 +30,10 @@ URLは受講生のみに連絡します。
       - You may skip 6 Grid.
   - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
       - You may skip 14 Requests I.
-      
+  - [Building Interactive JavaScript Websites | Codecademy](https://www.codecademy.com/learn/build-interactive-websites) Pro only
+     - [JavaScript Interactive Websites | Codecademy](https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites)
+     - [DOM Events with JavaScript | Codecademy](https://www.codecademy.com/learn/build-interactive-websites/modules/dom-javascript-events)
+     - [Templating With Handlebars | Codecademy](https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars)
 ## Resources
 
 - GitHub and VS Code
