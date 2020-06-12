@@ -36,6 +36,8 @@ URLは受講生のみに連絡します。
      - [Templating With Handlebars](https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars)
 ## Resources
 
+- GitHub
+  - [GitHub に SSH で接続する - GitHub ヘルプ](https://help.github.com/ja/github/authenticating-to-github/connecting-to-github-with-ssh)
 - GitHub and VS Code
   - [【初心者向け】GitHubにリポジトリを作成してVisual Studio Codeと連携するまで - 鍋綿ブログ](https://www.micknabewata.com/entry/github/vscode-sync)
 - Web API
