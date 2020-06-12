@@ -50,6 +50,12 @@ URLは受講生のみに連絡します。
   - [sugimototatsuo/redesign-ia: 2020年度ネットワーク演習Iのテンプレート](https://github.com/sugimototatsuo/redesign-ia/)
   - [東京都立大学システムデザイン学部インダストリアルアート学科](https://sugimototatsuo.github.io/redesign-ia/)　テンプレートのGitHub Pages
   - [東京都立大学システムデザイン学部インダストリアルアート学科 Department of Industrial Art](http://industrial-art.sd.tmu.ac.jp/) オリジナル
+
+- Outcomes
+  - Group 1
+  - Group 2
+  - [Group 3](https://sumikko-mountain.github.io/redesign-ia/)
+  - Group 4
   
 ## Final Project
 
