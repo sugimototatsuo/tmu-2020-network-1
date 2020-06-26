@@ -53,7 +53,7 @@ URLは受講生のみに連絡します。
 
 - Outcomes
   - Group 1
-  - Group 2
+  - [Group 2](https://taiki4532.github.io/redesign-ia/)
   - [Group 3](https://sumikko-mountain.github.io/redesign-ia/)
   - Group 4
   
