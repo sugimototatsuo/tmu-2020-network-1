@@ -55,7 +55,7 @@ URLは受講生のみに連絡します。
   - [Group 1](https://malt-moruto.github.io/redesign-ia/)
   - [Group 2](https://taiki4532.github.io/redesign-ia/)
   - [Group 3](https://sumikko-mountain.github.io/redesign-ia/)
-  - Group 4
+  - [Group 4](https://hitomi-neko.github.io/redesign-ia/)
   
 ## Final Project
 
