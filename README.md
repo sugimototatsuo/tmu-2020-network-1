@@ -52,7 +52,7 @@ URLは受講生のみに連絡します。
   - [東京都立大学システムデザイン学部インダストリアルアート学科 Department of Industrial Art](http://industrial-art.sd.tmu.ac.jp/) オリジナル
 
 - Outcomes
-  - Group 1
+  - [Group 1](https://malt-moruto.github.io/redesign-ia/)
   - [Group 2](https://taiki4532.github.io/redesign-ia/)
   - [Group 3](https://sumikko-mountain.github.io/redesign-ia/)
   - Group 4
