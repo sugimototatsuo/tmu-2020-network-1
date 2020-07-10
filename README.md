@@ -59,7 +59,8 @@ URLは受講生のみに連絡します。
   
 ## Final Project
 
-- TBA
+Beyond the scroll
+
 
 ## Schedule
 
