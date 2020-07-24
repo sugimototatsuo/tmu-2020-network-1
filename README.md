@@ -59,7 +59,8 @@ URLは受講生のみに連絡します。
   
 ## Final Project
 
-Beyond the scroll
+__Theme: Beyond the scroll__
+
 The creation experiment/poetic internet art work which is made possible by scrolling 
 
 JS Samples
