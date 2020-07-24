@@ -60,7 +60,12 @@ URLは受講生のみに連絡します。
 ## Final Project
 
 Beyond the scroll
+The creation experiment/poetic internet art work which is made possible by scrolling 
 
+JS Samples
+- [Scroll Demo](https://codepen.io/sugi2000/pen/pogxQWQ)
+- [Scroll Sample](https://codepen.io/sugi2000/pen/zYrbwjo)
+- [p5js reactive background](https://codepen.io/sugi2000/pen/MWKrOpV)
 
 ## Schedule
 
