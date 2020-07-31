@@ -79,7 +79,8 @@ The creation experiment/poetic internet art work which is made possible by scrol
   - [動く人々](https://n-syk.github.io/beyond-the-scroll/)
   - [1,000,000ClickSimulator](https://kominamiyuto.github.io/InternetB/)
   - [Life is like a game](https://moeco09.github.io/zinseigame/)
-  - [Visualization of formulas](https://kom-shin.github.io/visualizingFarmulas/)  
+  - [Visualization of formulas](https://kom-shin.github.io/visualizingFarmulas/)
+  - [like a shooting HAMUstar](https://rinakoa.github.io/network_2020zenki/)
   
 ## Schedule
 
