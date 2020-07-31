@@ -68,6 +68,19 @@ JS Samples
 - [Scroll Sample](https://codepen.io/sugi2000/pen/zYrbwjo)
 - [p5js reactive background](https://codepen.io/sugi2000/pen/MWKrOpV)
 
+- Outcomes
+  - [社会の素描](https://hitomi-neko.github.io/lifeOf/)
+  - [教科書の文字が小さくなったら大人になった気がした](https://sumikko-mountain.github.io/aging-senses-of-letters-and-time/)
+  - [言語の儀式化](https://taiki4532.github.io/Beyond_the_scroll/)
+  - [現代アート感](https://hiromi-mitsuoka.github.io/scrollShader/)
+  - [you know me](https://nagisa-mashima.github.io/Beyond-the-scroll/)
+  - [ツナガリ](https://malt-moruto.github.io/scroll/)
+  - [scrorgel](https://junna-oikawa.github.io/BeyondTheScroll/)
+  - [動く人々](https://n-syk.github.io/beyond-the-scroll/)
+  - [1,000,000ClickSimulator](https://kominamiyuto.github.io/InternetB/)
+  - [Life is like a game](https://moeco09.github.io/zinseigame/)
+  - [Visualization of formulas](https://kom-shin.github.io/visualizingFarmulas/)  
+  
 ## Schedule
 
 - 2020-05-15 Day01 Orientation
