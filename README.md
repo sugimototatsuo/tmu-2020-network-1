@@ -63,10 +63,10 @@ __Theme: Beyond the scroll__
 
 The creation experiment/poetic internet art work which is made possible by scrolling 
 
-JS Samples
-- [Scroll Demo](https://codepen.io/sugi2000/pen/pogxQWQ)
-- [Scroll Sample](https://codepen.io/sugi2000/pen/zYrbwjo)
-- [p5js reactive background](https://codepen.io/sugi2000/pen/MWKrOpV)
+- JS Samples
+  - [Scroll Demo](https://codepen.io/sugi2000/pen/pogxQWQ)
+  - [Scroll Sample](https://codepen.io/sugi2000/pen/zYrbwjo)
+  - [p5js reactive background](https://codepen.io/sugi2000/pen/MWKrOpV)
 
 - Outcomes
   - [社会の素描](https://hitomi-neko.github.io/lifeOf/)
