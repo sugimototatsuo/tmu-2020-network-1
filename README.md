@@ -83,7 +83,7 @@ The creation experiment/poetic internet art work which is made possible by scrol
   - [like a shooting HAMUstar](https://rinakoa.github.io/network_2020zenki/)
   - [八王子1トンネル](https://yukikoyama0000.github.io/)
   - [ミカン529](https://momoko-harada.github.io/BeyondTheScroll/)
-  - [Rain](https://hika-triangle.github.io/BeyondTheScroll/)
+  - [あめふり](https://hika-triangle.github.io/BeyondTheScroll/)
 
 ## Schedule
 
