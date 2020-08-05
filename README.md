@@ -72,7 +72,7 @@ The creation experiment/poetic internet art work which is made possible by scrol
   - [社会の素描](https://hitomi-neko.github.io/lifeOf/)
   - [教科書の文字が小さくなったら大人になった気がした](https://sumikko-mountain.github.io/aging-senses-of-letters-and-time/)
   - [言語の儀式化](https://taiki4532.github.io/Beyond_the_scroll/)
-  - [現代アート感](https://hiromi-mitsuoka.github.io/scrollShader/)
+  - [現代アート感](https://hiromi-mitsuoka.github.io/scrollShader/) : [Netlify版](https://musing-goldberg-ade842.netlify.app)
   - [you know me](https://nagisa-mashima.github.io/Beyond-the-scroll/)
   - [ツナガリ](https://malt-moruto.github.io/scroll/)
   - [scrorgel](https://junna-oikawa.github.io/BeyondTheScroll/)
