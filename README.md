@@ -73,7 +73,7 @@ The creation experiment/poetic internet art work which is made possible by scrol
   - [ツナガリ](https://malt-moruto.github.io/scroll/)
   - [ミカン529](https://momoko-harada.github.io/BeyondTheScroll/)
   - [1,000,000ClickSimulator](https://kominamiyuto.github.io/InternetB/)
-  - [教科書の文字が小さくなったら大人になった気がした](https://sumikko-mt.github.io/aging-senses-of-letters-and-time/)
+  - [教科書の文字が小さくなったら大人になった気がした](https://mt-sumikko.github.io/aging-senses-of-letters-and-time/)
   - [動く人々](https://n-syk.github.io/beyond-the-scroll/)
   - [八王子1トンネル](https://yukikoyama0000.github.io/)
   - [Life is like a game](https://moeco09.github.io/zinseigame/)
